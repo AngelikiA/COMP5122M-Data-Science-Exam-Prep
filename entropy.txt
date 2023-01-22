@@ -1,0 +1,13 @@
+Headshape,Bodyshape,Bodycolour,Loandefault
+square,oval,white,no
+round,oval,black,yes
+square,rectangle,white,yes
+square,rectangle,white,yes
+square,rectangle,white,yes
+round,rectangle,black,no
+square,rectangle,white,yes
+square,oval,white,no
+square,oval,white,no
+square,rectangle,white,yes
+square,oval,white,no
+round,oval,white,yes
